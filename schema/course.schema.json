@@ -18,8 +18,8 @@
               "properties": {
                 "ariaRegion": {
                   "type": "string",
-                  "title": "ARIA region",
-                  "default": "Text input. Type your answer and then submit.",
+                  "title": "Region ARIA",
+                  "default": "Wprowadzanie tekstu. Wpisz swoją odpowiedź, a następnie wyślij.",
                   "_adapt": {
                     "translatable": true
                   }
