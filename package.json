@@ -7,7 +7,7 @@
   "component" : "textinput",
   "targetAttribute": "_textinput",
   "displayName" : "Text Input",
-  "description": "A question component that allows the learner to input text based upon a question stem.",
+  "description": "Komponent pytania, który pozwala uczącemu się na wprowadzenie tekstu opartego na strukturze pytania.",
   "main": "/js/adapt-contrib-textInput.js",
   "keywords": [
     "adapt-plugin",
